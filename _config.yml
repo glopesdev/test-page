@@ -1,1 +1,5 @@
-theme: cayman
+title: My blog
+description: A test page built with Jekyll.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
